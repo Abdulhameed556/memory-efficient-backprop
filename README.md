@@ -11,9 +11,4 @@ The goal is to **reduce VRAM usage by 50%** while maintaining correct gradient c
 - 📊 **Gradient Equivalence with `torch.allclose()`**  
 - 🏋️ **Tested on LLaMA-1B Model**  
 
-## 🛠 Installation & Usage  
-
-### **1️⃣ Clone the repository**  
-```bash
-git clone https://github.com/yourusername/memory-efficient-backprop.git
-cd memory-efficient-backprop
+ 
